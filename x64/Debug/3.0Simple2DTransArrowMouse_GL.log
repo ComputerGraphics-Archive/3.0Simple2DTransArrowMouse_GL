@@ -1,0 +1,7 @@
+﻿  LoadShaders.cpp
+  Simple2DTransformation.cpp
+C:\Users\dusfk\OneDrive\바탕 화면\jiinlee2025\3.0Simple2DTransArrowMouse_GL\3.0Simple2DTransArrowMouse_GL\Simple2DTransformation.cpp(433,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\dusfk\OneDrive\바탕 화면\jiinlee2025\3.0Simple2DTransArrowMouse_GL\3.0Simple2DTransArrowMouse_GL\Simple2DTransformation.cpp(442,36): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dusfk\OneDrive\바탕 화면\jiinlee2025\3.0Simple2DTransArrowMouse_GL\3.0Simple2DTransArrowMouse_GL\Simple2DTransformation.cpp(442,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  3.0Simple2DTransArrowMouse_GL.vcxproj -> C:\Users\dusfk\OneDrive\바탕 화면\jiinlee2025\3.0Simple2DTransArrowMouse_GL\x64\Debug\3.0Simple2DTransArrowMouse_GL.exe
